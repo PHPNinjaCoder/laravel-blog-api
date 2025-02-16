@@ -109,6 +109,10 @@ To set up the project locally, follow these steps:
 
 Feel free to copy this template into your `README.md` file and modify it as needed. If you have any more questions or need further assistance, let me know!
 
+ **Project Url**
+
+    https://roadmap.sh/projects/blogging-platform-api
+
 
 
 
